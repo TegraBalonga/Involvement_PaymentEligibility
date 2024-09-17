@@ -1,1 +1,1 @@
-This was a plugin I created for a company 
+This was a plugin I created for a company that allowed the creation of new users by verifying if they have submitted the required documents and if they were eligible to be part of the monthly subscription
